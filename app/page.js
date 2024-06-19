@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
   <div>
-    <nav className=" flex m-1 p-1 justify-between">
+    <nav className=" flex m-1 p-1 justify-between ">
       <Link href="/" className="font-bold" target="_blank" rel="noopener noreferrer">Ethan Butler</Link>
       <div>
       <a className="p-1 font-semibold" href="https://github.com/InternetEthan" target="_blank" rel="noopener noreferrer">GitHub</a>
